@@ -35,4 +35,3 @@
 |User Status |![](https://rubygarage.s3.amazonaws.com/uploads/article_image/file/1476/re-engagement_notification.png)|
 |Score Based | ![](https://rubygarage.s3.amazonaws.com/uploads/article_image/file/1479/Trivia_push_notifications.png)|
 =======
->>>>>>> 2432d852c22540e83723defee7bd2f321fb7a8c0
