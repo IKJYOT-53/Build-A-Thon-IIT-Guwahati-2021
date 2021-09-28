@@ -11,7 +11,6 @@
 - Working solution 
 - Presentation on problem statement and solution design and approach 
 - Recorded video
-<<<<<<< HEAD
 
 ##  Standard Notification Format
 
